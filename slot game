@@ -88,4 +88,4 @@ while balance>0:
 print()
 print(f"Your balance is {balance}")
 
-
+input("Press Enter to close the game...")
